@@ -23,3 +23,7 @@
 * We can extend this technique to other problems and can interchange the final algorithm at runtime based on some criteria.
 * When different algorithms implement same interface, they become easily interchangeable during runtime.
 
+### Observer Design Pattern:-
+* **The Observer Pattern defines a one-to-many dependency between objects so that
+  when one object changes state, all of its dependents are notified and updated automatically.**
+
